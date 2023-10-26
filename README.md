@@ -2,7 +2,7 @@ Vitor Espindula da Rocha Latorraca
 Programming Student with SAP Focus
 
 About Me
-Hello! I'm a programming enthusiast currently dedicated to the world of technology, with a specific focus on the SAP platform. I'm a student at Georgian College, pursuing a Computer Programming course. I'm committed to learning and growing in this exciting and challenging field.
+Hello! I'm a programming enthusiast currently dedicated to the world of technology, with a specific focus on the SAP platform. I'm a student at Georgian College, pursuing a Computer Programming course. I'm committed to learning and growing in this exciting and challenging field. <br/>
 My Journey
 📚 Currently studying programming with an emphasis on SAP development.
 🌱 Always seeking to learn and improve my skills.
