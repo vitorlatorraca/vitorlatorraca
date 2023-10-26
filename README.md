@@ -1,23 +1,23 @@
-Vitor Espindula da Rocha Latorraca
-Programming Student with SAP Focus
+Vitor Espindula da Rocha Latorraca<br/>
+Programming Student with SAP Focus<br/>
 
-About Me
-Hello! I'm a programming enthusiast currently dedicated to the world of technology, with a specific focus on the SAP platform. I'm a student at Georgian College, pursuing a Computer Programming course. I'm committed to learning and growing in this exciting and challenging field. <br/>
-My Journey
-📚 Currently studying programming with an emphasis on SAP development.
-🌱 Always seeking to learn and improve my skills.
-💡 Passionate about problem-solving and creating efficient solutions.
+About Me<br/>
+Hello! I'm a programming enthusiast currently dedicated to the world of technology, with a specific focus on the SAP platform. I'm a student at Georgian College, pursuing a Computer Programming course. I'm committed to learning and growing in this exciting and challenging field.<br/>
+📚 Currently studying programming with an emphasis on SAP development.<br/>
+🌱 Always seeking to learn and improve my skills.<br/>
+💡 Passionate about problem-solving and creating efficient solutions.<br/>
 
-Skills
-💻 SAP Development
-🌐 Programming Languages : HTML, CSS, JavaScript, React, Python
-📊 Data Analysis 
-🚀 Problem Solving
-Goals
-I'm looking for opportunities for learning and collaboration in the SAP development field. My goal is to contribute to challenging projects and learn from experienced professionals. I'm open to internships, freelance projects, and any chance to gain hands-on experience.
+Skills<br/>
+💻 SAP Development<br/>
+🌐 Programming Languages : HTML, CSS, JavaScript, React, Python<br/>
+📊 Data Analysis<br/>
+🚀 Problem Solving<br/>
 
-Contact
-You can reach out to me through LinkedIn or via my email address vitorlatorraca5@gmail.com. I'm looking forward to connecting with industry professionals and expanding my network.
+Goals<br/>
+I'm looking for opportunities for learning and collaboration in the SAP development field. My goal is to contribute to challenging projects and learn from experienced professionals. I'm open to internships, freelance projects, and any chance to gain hands-on experience.<br/>
+
+Contact<br/>
+You can reach out to me through LinkedIn or via my email address vitorlatorraca5@gmail.com. I'm looking forward to connecting with industry professionals and expanding my network.<br/>
 
 
 <!---
