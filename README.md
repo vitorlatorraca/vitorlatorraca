@@ -1,26 +1,20 @@
-Vitor Espindula da Rocha Latorraca<br/>
-Programming Student with SAP Focus<br/>
+## Vitor Espindula da Rocha Latorraca  
+Programming Student | Web Development & Data Science Enthusiast  
 
-About Me<br/>
-Hello! I'm a programming enthusiast currently dedicated to the world of technology, with a specific focus on the SAP platform. I'm a student at Georgian College, pursuing a Computer Programming course. I'm committed to learning and growing in this exciting and challenging field.<br/>
-📚 Currently studying programming with an emphasis on SAP development.<br/>
-🌱 Always seeking to learn and improve my skills.<br/>
-💡 Passionate about problem-solving and creating efficient solutions.<br/>
+### About Me  
+Hello! I'm an aspiring programmer deeply engaged in the realms of web development and data science. Currently pursuing a Computer Programming course at Georgian College, I'm committed to mastering the intricacies of these exciting fields.
 
-Skills<br/>
-💻 SAP Development<br/>
-🌐 Programming Languages : HTML, CSS, JavaScript, React, Python<br/>
-📊 Data Analysis<br/>
-🚀 Problem Solving<br/>
+📚 Currently focusing on web development and diving into data science and web development.
+🌱 Continuously honing my skills and embracing new learning opportunities.  
+💡 Passionate about problem-solving and crafting efficient solutions.  
 
-Goals<br/>
-I'm looking for opportunities for learning and collaboration in the SAP development field. My goal is to contribute to challenging projects and learn from experienced professionals. I'm open to internships, freelance projects, and any chance to gain hands-on experience.<br/>
+### Skills  
+🌐 Skilled in Programming Languages: React, Java, JavaScript, HTML, CSS, Bootstrap  
+📊 Experienced in Data Analysis  
+🚀 Adept at Problem Solving  
 
-Contact<br/>
-You can reach out to me through LinkedIn or via my email address vitorlatorraca5@gmail.com. I'm looking forward to connecting with industry professionals and expanding my network.<br/>
+### Goals  
+I'm seeking opportunities to immerse myself in web development and data science projects. My aim is to contribute meaningfully to challenging initiatives while learning from seasoned professionals. I'm open to internships, freelance projects, and any chance to gain practical experience.
 
-
-<!---
-vitorlatorraca/vitorlatorraca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Contact  
+Connect with me via LinkedIn or email me at vitorlatorraca5@gmail.com. I'm eager to engage with industry experts, expand my network, and explore new opportunities.
