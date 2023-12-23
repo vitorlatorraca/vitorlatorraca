@@ -5,7 +5,6 @@ Programming Student | Web Development & Data Science Enthusiast
 Hello! I'm an aspiring programmer deeply engaged in the realms of web development and data science. Currently pursuing a Computer Programming course at Georgian College, I'm committed to mastering the intricacies of these exciting fields.
 
 📚 Currently focusing on web development and diving into data science and web development.
-💡 Passionate about problem-solving and crafting efficient solutions.  
 
 ### Skills  
 🌐 Skilled in Programming Languages: React, Java, JavaScript, HTML, CSS, Bootstrap  
