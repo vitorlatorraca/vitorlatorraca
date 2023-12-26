@@ -8,7 +8,6 @@ Hello! I'm an aspiring programmer deeply engaged in the realms of web developmen
 
 ### Skills  
 🌐 Skilled in Programming Languages: React, Java, JavaScript, HTML, CSS, Bootstrap  
-📊 Experienced in Data Analysis  
 🚀 Adept at Problem Solving  
 
 ### Goals  
