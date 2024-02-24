@@ -2,7 +2,7 @@
 Programming Student | Web Development & Data Science Enthusiast  
 
 ### About Me  
-Hello! I'm an aspiring programmer deeply engaged in the realms of web development and data science. Currently pursuing a Computer Programming course at Georgian College, I'm committed to mastering the intricacies of these exciting fields.
+Hello! I'm an aspiring programmer deeply engaged in the realms of web development. Currently pursuing a Computer Programming course at Georgian College, I'm committed to mastering the intricacies of these exciting fields.
 
 📚 Currently focusing on web development and diving into data science and web development.
 
