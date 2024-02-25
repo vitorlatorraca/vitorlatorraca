@@ -1,14 +1,12 @@
 ### Hello! - Olá!
 
-- 📐 Bachelor's of Science in Civil Engineering.
+- 📐 Studying Computer Programming at Georgian College
 - 🖥️ Full-Stack Developer and in love with Computer Science.
-- 🇺🇲 Currently in Toronto - CA.
+- 🇨🇦 Currently in Toronto - CA.
 - 🇧🇷 Born and raised in Brazil.
-- 🔭 I’m currently working on getting Software Engineer Specialization.
-- 🌱 I’m currently learning AI Engineering.
-- 📫 How to reach me | Contato : ericgorza@gmail.com
+- 🔭 I’m currently working with REACT projects.
+- 📫 How to reach me | Contato : vitorlatorraca5@gmail.com
 - 😄 Pronouns | Pronome : he/him | ele/dele
-- 🎸 Fun Fact: I'm a professional musician and audio engineer graduated from Musicians Institute - Hollywood.
 
 <br> 
 <br>
@@ -33,8 +31,8 @@
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/ericgorza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ericgorza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eric-pires-gorza-a164b7191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/vitorlatorraca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:vitorlatorraca5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vitor-latorraca-47430620a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
