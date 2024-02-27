@@ -6,7 +6,6 @@
 - 🇧🇷 Born and raised in Brazil.
 - 🔭 I’m currently working with REACT projects.
 - 📫 How to reach me | Contato : vitorlatorraca5@gmail.com
-- 😄 Pronouns | Pronome : he/him | ele/dele
 
 <br> 
 <br>
